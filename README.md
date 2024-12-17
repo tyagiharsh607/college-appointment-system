@@ -38,10 +38,3 @@ This is a RESTful API built with the **MERN stack** (MongoDB, Express.js, Node.j
 - MongoDB database (MongoDB Atlas or local instance).  
 
 ---
-
-### **Steps to Set Up the Project**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/tyagiharsh607/college-appointment-system/
-   cd college-appointment-system
