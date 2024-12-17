@@ -19,10 +19,6 @@ This is a RESTful API built with the **MERN stack** (MongoDB, Express.js, Node.j
 
 - **Authentication**:  
   - Protected routes using **JWT tokens** stored in HTTP-only cookies.
-
-- **Testing**:  
-  - End-to-end tests (E2E) validate API flows and user interactions.
-
 ---
 
 ## **2. Technologies Used**
